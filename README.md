@@ -17,6 +17,24 @@ This project builds upon my first project by introducing feature encoding, multi
 
 ---
 
+## 📊 Project Visualizations
+
+### Distribution of Insurance Charges
+
+![Distribution](images/distribution.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+### Actual vs Predicted
+
+![Prediction](images/actual_vs_predicted.png)
+
+### Residual Plot
+
+![Residual](images/residual_plot.png)
+
 # 🎯 Business Problem
 
 Health insurance providers need to estimate medical insurance charges based on customer information such as age, BMI, smoking habits, medical history, and lifestyle.
